@@ -21,11 +21,11 @@ Este repositorio contiene la documentación completa del proceso de diseño, des
 
 ### 1. Wireframes de Baja Fidelidad
 Representaciones estructurales para validar la arquitectura de información antes del diseño gráfico.
-*(Puedes agregar aquí una imagen pequeña de uno de los wireframes si quieres, o dejarlo solo como referencia a la carpeta)*
+
 
 ### 2. Prototipo Visual (Alta Fidelidad)
 Propuesta de diseño final considerando jerarquía visual, colores emocionales y tipografía legible.
-![Ejemplo de Pantalla Home](prototypes/pantalla_home_real.png) 
+![Ejemplo de Pantalla Home](prototypes/Imagen-Pantalla-01.jpeg) 
 *(Nota: Asegúrate de que el nombre de la imagen coincida con el que subiste a GitHub)*
 
 ## 🔄 Flujo de Usuario

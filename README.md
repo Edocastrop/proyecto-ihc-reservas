@@ -11,11 +11,12 @@ Este repositorio contiene la documentación completa del proceso de diseño, des
 
 ## 📂 Estructura del Repositorio
 
-- **[📄 docs/](docs/)**: Contiene el informe técnico final en PDF y los borradores de investigación.
+- **[📄 docs/](docs/)**: Contiene el informe técnico final: [Castro-Paredes-Eduardo-IHC-Trabajo-Unidad-02.pdf](docs/Castro-Paredes-Eduardo-IHC-Trabajo-Unidad-02.pdf).
 - **[🎨 prototypes/](prototypes/)**: 
-  - Wireframes de baja fidelidad (versiones en texto/ASCII).
-  - Prototipos visuales generados (imágenes de cómo se vería la app real).
-- **[🖼️ assets/](assets/)**: Diagramas de flujo (Mermaid) e imágenes de soporte.
+  - Wireframes de baja fidelidad (versiones estructurales en texto/ASCII).
+  - Propuestas de interfaz gráfica de alta fidelidad (7 imágenes `.jpeg` y `.png` correspondientes a las pantallas principales del flujo).
+- **[🖼️ assets/](assets/)**: Recursos gráficos de soporte, incluyendo el diagrama de flujo del usuario (`Diagrama-de-Flujo.png`).
+- **README.md**: Documento principal ubicado en la raíz del repositorio, que funciona como portada del proyecto. Explica el propósito de la solución, presenta a los integrantes del equipo y facilita la navegación visual hacia los prototipos.
 
 ## 🎨 Prototipado y Evidencias
 
